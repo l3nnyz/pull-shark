@@ -19,3 +19,7 @@ Lancer les scripts dans `scripts/`.
 ## FAQ
 
 Aucune question pour l'instant.
+
+## Auteur
+
+l3nnyz
