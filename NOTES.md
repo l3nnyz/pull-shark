@@ -1,0 +1,3 @@
+# Notes
+
+- idee 1
