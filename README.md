@@ -23,3 +23,8 @@ Aucune question pour l'instant.
 ## Auteur
 
 l3nnyz
+
+## Contributeurs
+
+- l3nnyz
+- notelzed06
