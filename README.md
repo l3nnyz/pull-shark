@@ -15,3 +15,7 @@ Projet de test pour les pull requests.
 Lancer les scripts dans `scripts/`.
 
 ---
+
+## FAQ
+
+Aucune question pour l'instant.
