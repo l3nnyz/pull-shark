@@ -9,3 +9,7 @@ Projet de test pour les pull requests.
 ## Installation
 
 `git clone` puis c'est pret.
+
+## Utilisation
+
+Lancer les scripts dans `scripts/`.
