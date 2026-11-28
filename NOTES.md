@@ -14,3 +14,4 @@
 - Note co-écrite 9 (2026-11-28T17:53:38Z)
 - Note co-écrite 10 (2026-11-28T17:53:47Z)
 - Note co-écrite 11 (2026-11-28T17:53:58Z)
+- Note co-écrite 12 (2026-11-28T17:54:10Z)
